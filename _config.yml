@@ -34,3 +34,9 @@ exclude:
   - node_modules
   - vendor
   - .gitignore 
+
+# Include assets
+include:
+  - assets
+  - assets/css
+  - assets/css/main.css 
