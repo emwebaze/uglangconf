@@ -3,6 +3,10 @@ description: A platform for sharing and discovering ABI hacks and solutions
 baseurl: "/uglangconf/"
 url: "https://emwebaze.github.io/uglangconf/"
 
+remote_theme: pmarsceill/just-the-docs
+nav_enabled: false
+search_enabled: false
+
 # Build settings
 markdown: kramdown
 plugins:
