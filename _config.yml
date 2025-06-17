@@ -1,0 +1,36 @@
+title: ABI Hack
+description: A platform for sharing and discovering ABI hacks and solutions
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  hacks:
+    output: true
+    permalink: /hacks/:title/
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "hacks"
+    values:
+      layout: "hack"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore 
