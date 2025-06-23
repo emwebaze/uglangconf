@@ -1,0 +1,143 @@
+/* Navbar Styles to match AbiHack 2025 header */
+
+.site-nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background: #fff;
+  border-bottom: 1px solid #eee;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 2.5rem;
+  height: 4.5rem;
+  font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+  box-shadow: none;
+}
+
+.site-logo {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-right: 3rem;
+  text-decoration: none;
+}
+
+.site-logo-row {
+  display: flex;
+  align-items: center;
+}
+
+.site-logo img {
+  height: 2.2rem;
+  margin-right: 0.7rem;
+}
+
+.site-logo-title {
+  font-weight: 700;
+  font-size: 1.5rem;
+  color: #4285f4;
+  letter-spacing: 0.01em;
+  line-height: 1.1;
+}
+
+.site-logo-subtitle {
+  font-size: 0.95rem;
+  color: #888;
+  font-weight: 400;
+  margin-top: 0.1rem;
+  margin-left: 2.4rem;
+}
+
+.site-nav-center {
+  display: flex;
+  flex: 1 1 auto;
+  justify-content: center;
+}
+
+.site-nav-list {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  gap: 2.5rem;
+}
+
+.site-nav-link {
+  color: #222;
+  text-decoration: none;
+  font-size: 1.13rem;
+  font-weight: 500;
+  transition: color 0.2s;
+  padding: 0.2rem 0.5rem;
+}
+
+.site-nav-link:hover,
+.site-nav-link:focus {
+  color: #4285f4;
+}
+
+.site-nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 1.2rem;
+  margin-left: 2rem;
+}
+
+.lang-btn {
+  border: 2px solid #4285f4;
+  background: #fff;
+  color: #4285f4;
+  font-weight: 600;
+  border-radius: 1.5rem;
+  padding: 0.3rem 1.1rem;
+  font-size: 1rem;
+  cursor: pointer;
+  transition: background 0.2s, color 0.2s;
+}
+
+.lang-btn:hover {
+  background: #f2f8fd;
+}
+
+.register-btn {
+  background: #4285f4;
+  color: #fff;
+  font-weight: 600;
+  border: none;
+  border-radius: 0.6rem;
+  padding: 0.5rem 1.4rem;
+  font-size: 1.08rem;
+  cursor: pointer;
+  box-shadow: 0 1px 2px rgba(66,133,244,0.07);
+  transition: background 0.2s;
+}
+
+/*.register-btn {: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }*/
+
+.register-btn:hover {
+  background: #1967d2;
+}
+
+@media (max-width: 900px) {
+  .site-nav {
+    flex-direction: column;
+    align-items: stretch;
+    height: auto;
+    padding: 0.5rem 1rem;
+  }
+  .site-nav-center {
+    justify-content: flex-start;
+    margin-top: 0.5rem;
+  }
+  .site-nav-actions {
+    margin-left: 0;
+    margin-top: 0.5rem;
+  }
+}
+
+.navbar-spacer {
+  height: 4.5rem;
+} 
