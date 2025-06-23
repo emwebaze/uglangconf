@@ -1,5 +1,5 @@
 title: Low resource language workshop
-theme: just-the-docs
+# theme: just-the-docs
 baseurl: "/"
 url: "https://emwebaze.github.io/uglangconf/"
 
