@@ -1,9 +1,9 @@
 ---
 layout: default
-last_modified_date: june 23, 2025
+last_modified_date: July 7, 2025
 ---
 
-# Low resource language workshop 2025
+# AI for African languages conference 2025
 {: .fs-9 }
 
 Unlock the power of East African languages: Innovate, connect, and build inclusive language technology for tomorrow.
@@ -25,13 +25,13 @@ This workshop is meant to be inter-disciplinary, merging industry and research. 
 
 Submissions should follow this [LaTeX style guide](https://www.google.com/search?q=https://www.overleaf.com/latex/templates/association-for-computational-linguistics-acl-2024-proceedings-template/gvcqczbwggtx).
 
-**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/ug_lang_conf) by July 15, 2025 AoE.**
+**You can submit for both tracks using [OpenReview](https://openreview.net/group?id=ICLR.cc/2025/Workshop/ug_lang_conf) by August 15, 2025 AoE.**
 
 ## Timelines:
 
-Deadline for submissions: July 15, 2025 AoE
+Deadline for submissions: August 15, 2025 AoE
 
-Acceptance notification: July 30, 2025
+Acceptance notification: September 10, 2025
 
 Workshop date: October 10, 2025
 
@@ -47,6 +47,7 @@ Themes for submissions can include but are not limited to:
 6.  **Applications of NLP for Societal Impact in Africa:** Real-world deployments of NLP solutions in areas such as education, healthcare, agriculture, financial inclusion, and cultural preservation.
 7.  **Computational Linguistics of African Languages:** Linguistic analysis, phonology, morphology, syntax, and semantics of African languages relevant to NLP model development.
 8.  **Tools and Resources for African Language NLP:** Development of open-source libraries, frameworks, evaluation benchmarks, and other resources to facilitate research and development.
+9. **Large Language Models (LLMs) for Enhanced Language Comprehension and Task Flexibility:** Research and development into leveraging large-scale pre-trained models (LLMs) for African languages, including: improving contextual understanding, zero-shot and few-shot Learning, and multilingual capabilities and code-Switching.
 
 ## Reviewing:
 
@@ -60,4 +61,4 @@ Papers will be reviewed by workshop organizers and selected for:
 
 ## Presentation Format:
 
-Accepted submissions will be non-archival but will be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q\&A and discussion sessions.
+Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q\&A and discussion sessions.

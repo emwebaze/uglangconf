@@ -1,1 +1,1 @@
-Uganda and East African language workshop site
+AI in African language conference site
