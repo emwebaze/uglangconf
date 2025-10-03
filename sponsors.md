@@ -1,1 +1,1 @@
-![Alt text](imgs/sponsors.png "sponsors")
+![Our wonderful Sponsors](/assets/images/sponsors.png "sponsors")
