@@ -1,4 +1,7 @@
 ---
+layout: default
+title: Schedule
+nav_order: 2
 last_modified_date: October 3, 2025
 ---
 
