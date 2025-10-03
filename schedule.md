@@ -1,5 +1,4 @@
 ---
-layout: default
 last_modified_date: October 3, 2025
 ---
 
