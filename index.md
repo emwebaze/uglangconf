@@ -62,3 +62,21 @@ Papers will be reviewed by workshop organizers and selected for:
 ## Presentation Format:
 
 Accepted submissions will be published online in [CEUR proceedings](https://ceur-ws.org/) and will also be shared on the workshop website (unless requested otherwise by the authors). Authors of accepted papers will be invited to present their work as lightning talks during dedicated paper panels, followed by interactive Q\&A and discussion sessions.
+
+## Accepted Papers:
+* [Sauti Halisi: Towards Direct Speech-to-Text Translation for Colloquial and Code-Switched Swahili](https://openreview.net/forum?id=56Htag39aE)
+_Brian Gillo_
+* [Promoting Uganda’s major local languages: Introducing Luganda Text generation models and diverse accent-aware TTS models](https://openreview.net/forum?id=X5W4iEdnLk)
+_Rashid Kisejjere, Reuben Magala, Abubakhari Sserwadda_
+* [End-to-End Continuous Ethiopia Sign Language Recongnition](https://openreview.net/forum?id=QeJ1VNSwHQ)
+_Anteneh Yehalem Tegegne_
+* [Tonative: Community-Driven Extension of African Datasets Through Human-AI Collaboration](https://openreview.net/forum?id=BEddoSwcEi)
+_Cynthia Jayne Amol, Sharon Ibejih_
+* [Bridging the Language Gap: Fine-Tuning LLama for Machine Translation in Low-Resource African Languages](https://openreview.net/forum?id=IVpC4xW0tV)
+_Mary Wambui Kariuki, Joseph Muguro, Ciira wa Maina, Lilian Diana Awuor Wanzare_
+* [KALAM-NA: Multi-Dialectal Corpus for 16 variants of the Sara linguistic family of Chad](https://openreview.net/forum?id=haGLuSZQlS)
+_Abdel-aziz Harane Abounounou_
+* [How much speech data is necessary for ASR in African languages? An evaluation of data scaling in Kinyarwanda and Kikuyu](https://openreview.net/forum?id=9lNrLnnWGN)
+_Benjamin Akera, Evelyn Nafula, Patrick Walukagga, Gilbert Yiga, John Quinn, Ernest Tonny Mwebaze_
+* [Robust Tokenization for Low-Resource Oromo Medical Texts via Novel Lightweight Augmentation](https://openreview.net/forum?id=i1QAk9R82A)
+_Karthik Srikumar_
